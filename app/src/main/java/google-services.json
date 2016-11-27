@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "760255287667",
+    "firebase_url": "https://myhealthkit-b62e0.firebaseio.com",
+    "project_id": "myhealthkit-b62e0",
+    "storage_bucket": "myhealthkit-b62e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760255287667:android:bf75e7adf36f20dc",
+        "android_client_info": {
+          "package_name": "com.example.asus.mycar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760255287667-j7ml9n9632247e3hbqvma5qhjkijfcoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSmb8Gg8CRL99v1fMMXq7PssfxLySmsZg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
